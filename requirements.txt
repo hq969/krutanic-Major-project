@@ -1,0 +1,9 @@
+# Add the required libraries for your Car Price Prediction project
+
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+statsmodels
+scikit-learn
